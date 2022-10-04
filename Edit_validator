@@ -1,5 +1,4 @@
 haqqd tx staking edit-validator \
-  --website="https://discord.gg/fPYg32X8Nu" \
-  --details="U+2665 systemd - the best U+2665" \
+   --details="♥ systemd - the best ♥" \
   --chain-id=haqq_54211-2 \
   --from=wallet
