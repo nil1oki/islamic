@@ -1,4 +1,4 @@
-haqqdd tx staking edit-validator \
+haqqd tx staking edit-validator \
   --moniker=Niloki \
   --identity=B25EEC06BB16BE96 \
   --website="https://teletype.in/@niloki" \
