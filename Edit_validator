@@ -1,7 +1,5 @@
 haqqd tx staking edit-validator \
-  --moniker=Niloki \
-  --identity=B25EEC06BB16BE96 \
-  --website="https://teletype.in/@niloki" \
-  --details="systemd" \
+  --website="https://discord.gg/fPYg32X8Nu" \
+  --details="U+2665 systemd - the best U+2665" \
   --chain-id=haqq_54211-2 \
   --from=wallet
